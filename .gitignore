@@ -14,3 +14,6 @@ __pycache__/
 *.DS_Store
 # Notebook Exports as html
 *.html
+
+# Private File 
+ML/Notebooks/Bike Sharing Time Series Forecasting.ipynb

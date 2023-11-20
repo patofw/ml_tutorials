@@ -1,9 +1,30 @@
-# ml_tutorials
+# ML Tutorials
 Tutoriales de ML y NLP
 
 En este repositorio encontrarás los tutoriales de ML y NLP. Puedes simplemente hacer un `clone` de este repo para descargarte los archivos y notebooks. 
 
 Cómo clonar un repo [LINK](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+## ML Notebooks. 
+
+Recomiendo empezar por aquí. Tiene algunos tutoriales básicos de ML y otros más avanzados. Entre mis favoritos están:
+- ``ML/Notebooks/Marketing Mix Modelling.ipynb``
+- ``ML/Notebooks/Wine Classification.ipynb``
+- ``ML/Notebooks/Bike Sharing Time Series Forecasting.ipynb``
+
+## CodingExercises
+
+Aquí puedes encontrar algunos ejemplos de programación que te serán utiles. Por ejemplo, tienes tutoriales para visualización de datos, tratamiento de texto, tratamiento de outliers, entre otros. 
+
+## NLP
+
+Esta es la sección más avanzada del repositorio. Cuenta con varios ejemplos de NLP, desde los más básicos hasta los más avanzados. 
+
+Mis favoritos son: 
+
+- ``NLP/LDA_NLP.ipynb``
+- ``NLP/Word2Vec Tutorial.ipynb``
+- ``NLP/ML_Sentiment_Analysis.ipynb``
 
 ## Seguir aprendiendo! 
 
